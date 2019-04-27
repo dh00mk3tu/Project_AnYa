@@ -7,5 +7,5 @@ project(AnYa)
 
 add_executable(
         AnYa_test
-        anya.cpp.gpg
+        anya.cpp
 )   
