@@ -4,7 +4,7 @@
 ### Installation Guide for AnYa
 
 \
-\
+
 
 This is the initial phase of rolling out AnYa on public beta and to do
 that; I will require your help. I request all the Beta Testers to pull
@@ -12,13 +12,13 @@ requests on GitHUb or contact me personally about the issue you're
 facing. This document will guide you how to test out current
 installation conditions for AnYa.
 
-**Required Tools**
+###**Required Tools**
 
 ​1. CMAKE
 
 ##### HOW TO INSTALL CMAKE
 
-###### ****
+###### 
 
 ​1. Open Console/Terminal
 
@@ -28,7 +28,7 @@ installation conditions for AnYa.
 
 #### HOW TO INSTALL
 
-###### ****
+###### 
 
 ​1. Clone the Directory form the GitHub Repo.
 
