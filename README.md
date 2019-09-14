@@ -22,7 +22,7 @@ installation conditions for AnYa.
 
 ​1. Open Console/Terminal
 
-​2. Enter the command *sudo apt-get install cmake*
+​2. Enter the command ''''*sudo apt-get install cmake*''''
 
 ​3. Follow the steps
 
@@ -34,15 +34,15 @@ installation conditions for AnYa.
 
 ​2. Open Terminal and change directory to where you cloned the files
 
-​3. Enter the command *cmake .*
+​3. Enter the command ''''*cmake .*''''
 
 ​4. Let the process finish
 
-​5. Enter the command *make*
+​5. Enter the command ''''*make*''''
 
 ​6. Let the process finish
 
-​7. Enter the command *./AnYa\_Test* to verify the installation
+​7. Enter the command ''''*./AnYa\_Test*'''' to verify the installation
 
 ​8. If successful, a note will be displayed, else screenshot the error
 and pull a request on GitHub/Personally contact me
