@@ -3,7 +3,7 @@
 
 ### Installation Guide for AnYa
 
-\
+--------------
 
 
 This is the initial phase of rolling out AnYa on public beta and to do
@@ -12,7 +12,7 @@ requests on GitHUb or contact me personally about the issue you're
 facing. This document will guide you how to test out current
 installation conditions for AnYa.
 
-###**Required Tools**
+### **Required Tools**
 
 ​1. CMAKE
 
