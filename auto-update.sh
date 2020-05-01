@@ -40,9 +40,6 @@ sudo apt-get autoclean
 
 echo
 
-echo -e "${TITLE}Phase Eight:${GREEN}Cloning Git-Repo${NOCOLOR}"
-echo -e "${GIT}"
-git clone https://github.com/dh00mk3tu/Project_AnYa.git
 ${NOCOLOR}
 
 echo Complete
